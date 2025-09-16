@@ -24,7 +24,7 @@ CSS3
 
 
 Shell
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/troquatte/curso-angular-portfolio)
+git clone https://github.com/troquatte/curso-angular-portfolio.git
 cd nome-do-projeto
 npm install
 ng serve
