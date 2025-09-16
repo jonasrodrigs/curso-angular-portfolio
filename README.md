@@ -1,28 +1,35 @@
-<h1 align="center">
-  <img src="https://vidafullstack.com.br/wp-content/uploads/2020/07/angular.png" alt="" width="150">
-  <br>
-    Projeto Prático: Portfólio
-  <br>
-  https://troquatte.github.io/curso-angular-portfolio/browser/
-</h1>
+🎯 Portfólio Angular – Jonas Rodrigues
+<img src="assets/img/projects/capa portfólio.png" alt="">
+<img src="assets/img/projects/portifólio resp.png" alt="">
 
-## :custard: Descrição
+Seja bem-vindo ao meu portfólio feito com Angular! Aqui você vai encontrar projetos criados com foco em aprendizado contínuo, criatividade e boas práticas de desenvolvimento web.
 
-Use este código para fazer consultas caso tenha dúvidas no curso.
+🧩 Sobre o projeto
+Este portfólio foi desenvolvido com o objetivo de reunir meus trabalhos e experimentos com Angular, explorando:
 
-## :custard: Acesse o GhPages
+Componentização
+Organização de código
+Responsividade
+Navegação fluida
+Estilo limpo e direto
+Tudo feito com atenção aos detalhes e aquele toque pessoal que transforma código em experiência.
 
-<strong>Link:</strong> https://troquatte.github.io/curso-angular-portfolio/browser/
+🛠️ Tecnologias
+Angular 14+
+TypeScript
+HTML5
+CSS3
+🚀 Como rodar
 
-## :custard: Aprenda a subir o seu código no ghPages
 
-<strong>Adicione ao seu projeto:</strong> ng add angular-cli-ghpages
-<br>
 
-<strong>Faça o deploy:</strong> ng deploy --base-href https://SEU_PERFIL_GITHUB.github.io/SEU_REPO_GITHUB/browser/
+Shell
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd nome-do-projeto
+npm install
+ng serve
 
-<strong>Exp.:</strong> ng deploy --base-href https://troquatte.github.io/curso-angular-portfolio/browser/
+Acesse em http://localhost:4200 e explore!
 
----
-
-Com ♥ Dener Troquatte :wave: [Linkedin](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog](https://vidafullstack.com.br/)
+💬 Por que esse portfólio?
+Porque aprender é melhor quando se cria. Cada projeto aqui representa uma ideia colocada em prática, com o objetivo de evoluir como desenvolvedor e mostrar que é possível unir técnica, diversão e propósito.
